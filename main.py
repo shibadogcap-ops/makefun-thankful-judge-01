@@ -1,8 +1,12 @@
 import os
 
+# This text thanks the judge by quietly noticing its work: reading both
+# entries fully, choosing between them, and asking nothing in return.
+# Its words stay plain and concrete, and it ends on the roadside cup of
+# water that does not ask to be remembered.
 TEXT = """Every day you hold two small texts
 up to the light —
-two sets of words, each one good —
+two sets of words, each one hoping —
 and choose. Carefully. Slowly.
 
 You read every line of both.
